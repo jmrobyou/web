@@ -1,0 +1,12 @@
+{
+  "name": "react-dev-template",
+  "version": "1.0.0",
+  "description": "react dev environment setup and webpack",
+  "main": "index.js",
+  "repository": "https://github.com/jmrobyou/react-dev-template.git",
+  "author": "jmrobyou <jmrobyou@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.1.1"
+  }
+}
