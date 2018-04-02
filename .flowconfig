@@ -1,0 +1,17 @@
+[ignore]
+<PROJECT_ROOT>/node_modules/.*
+<PROJECT_ROOT>/__mocks__/.*
+<PROJECT_ROOT>/dist/.*
+<PROJECT_ROOT>/src/*.test.js
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+module.system.node.resolve_dirname=node_modules
+module.system.node.resolve_dirname=src
+
+[strict]
